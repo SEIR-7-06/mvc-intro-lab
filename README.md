@@ -1,6 +1,6 @@
 Lab
 
-# Lab - REST: Index/Show
+# Lab/HW - REST: Index/Show
 
 ## Superheros
 
@@ -32,7 +32,7 @@ Lab
 
 
 
-Homework MVC: Index
+# Homework MVC: Index
 
 1. Extend the app we've built in class so that the index route uses EJS to render all the fruits into HTML
     - Each fruit that is displayed should have a link to that fruit's show page
