@@ -1,5 +1,3 @@
-Lab
-
 # Lab - REST: Index/Show
 
 ## Individual Warm-Up: Superheros
