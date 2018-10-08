@@ -19,7 +19,8 @@ describe('superhero routes', function(){
         .get('/superheroes/0')
         .expect(200)
         .expect((response)=>{
-            const hero = response.body;
+            //if using res.json, change response.text to response.body
+            const hero = response.text;
             hero.should.be.eq('batman');
             hero.should.not.be.eq('superman');
         })
