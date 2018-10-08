@@ -14,6 +14,7 @@
     - The route should send the entire superheroes array
 3. Create a route to /superheroes/:index
     - The route should send the superhero that is at the index in the superheroes array. Look up how to access route parameters in order to use the index requested by the user.
+4. You can test whether your app meets these specifications by running the automated testing file! <code>npm install</code> to install the necessary packages, <code>npm test</code> to run the tests.
 
 # Group exercise: Fruits
 
